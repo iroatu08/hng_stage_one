@@ -24,7 +24,7 @@ setInterval(updateTime,1000);
 
 
 // setting us datas dynamically here
-slackUserName.textContent = "Prince Jayson";
+slackUserName.textContent = "Prince Jayson"
 myTrack.textContent = "Frontend Track"
-githubURL.href = "https://github.com/iroatu08/hng_stage_one";
+githubURL.href = "https://github.com/iroatu08/hng_stage_one"
 githubURL.textContent= "GitHub repository url"
