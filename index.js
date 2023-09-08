@@ -27,4 +27,4 @@ setInterval(updateTime,1000);
 slackUserName.textContent = "Prince Jayson";
 myTrack.textContent = "Frontend Track"
 githubURL.href = "https://github.com/yourusername/your-repo";
-githubURL.textContent= "https://github.com/iroatu08/hng_stage_one"
+githubURL.textContent= "GitHub repository url"
